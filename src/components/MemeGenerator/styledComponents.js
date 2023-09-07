@@ -111,7 +111,7 @@ export const CustomSelect = styled.select`
   margin-bottom: 10px;
   outline: none;
 `
-export const CustomOption = styled.input`
+export const CustomOption = styled.option`
   font-size: 16px;
   padding-top: 12px;
   padding-bottom: 12px;
